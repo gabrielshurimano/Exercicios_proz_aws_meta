@@ -1,0 +1,76 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+}
+
+
+
+
+/* Aplicando display flex no header */
+header{
+  display: flex;
+   /* para defirnir o tamanho do header */
+   
+   margin-bottom: 16px; 
+   padding: 20px;
+   
+  background-image: url(/CSS/codpark/Atividade_01/img/fundo.jpg);
+  justify-content: space-between;
+  /* para os obejtos do header ficarem separados */
+}
+
+.img_cabecalho{
+ padding: 10px 10px;
+}
+
+.msg_bemvindo{
+  color: aliceblue;
+  display: flex;
+  height: 100%;
+}
+
+/* Main */
+main{
+  padding: 16px;
+  background-image: url(https://previews.123rf.com/images/romvo/romvo1004/romvo100400138/6744531-textura-de-fondo-de-madera-para-el-dise%C3%B1o.jpg);
+  text-align: center;
+}
+
+h1{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  padding-left:4% ;
+  padding-right: 4%;
+}
+
+#text_um{
+ margin-bottom: 40px;
+ padding-right:20px;
+}
+
+#imagem_conteudo{
+ 
+  padding-left:4% ;
+  padding-right: 4%;
+  
+
+}
+
+#link_para_pagina_2{
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+#text_dois{
+  margin-bottom: 40px;
+  padding-right:20px;
+}
+
+/* footer */
+footer{
+  background-color: aquamarine;
+  justify-content: space-between;
+  text-align: center;
+}
+
