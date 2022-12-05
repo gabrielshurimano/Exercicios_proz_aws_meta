@@ -1,0 +1,2 @@
+Nessa seunda atividade eu me utilizei de  text-align para centralizar alguns conteudos que eu queria dar destaque
+e melhorei bastante o header da pagina, posicionando melhor a mensagem "Bem-vindo" com um parametro chamado align-items:center;
